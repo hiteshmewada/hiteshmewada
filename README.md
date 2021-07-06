@@ -38,7 +38,7 @@
 
 <a href="https://fb.com/hitesh mewada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hitesh mewada" height="30" width="40" /></a>
 
-<a href="https://instagram.com/hiteshmewada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hiteshmewada" height="30" width="40" /></a>
+<a href="https://instagram.com/hitesh_mewaraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hiteshmewada" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/c/hitesh mewada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hitesh mewada" height="30" width="40" /></a>
 
