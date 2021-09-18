@@ -32,7 +32,7 @@
 
 <a href="https://codepen.io/hiteshmewada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hiteshmewada" height="30" width="40" /></a>
 
-<a href="https://twitter.com/hiteshmewara13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiteshmewara13" height="30" width="40" /></a>
+<a href="https://twitter.com/hiteshmewara13" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiteshmewara13" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/hitesh mewada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh mewada" height="30" width="40" /></a>
 
