@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hitesh Mewada</h1>
+<h1 align="center">Hey 👋, I'm Hitesh Mewada</h1>
 
-<h3 align="center">A passionate Computer Science student from India</h3>
+<h3 align="center">A passionate Computer Engineering student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshmewada&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshmewada" /> </p>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hiteshmewara13" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshmewara13?logo=twitter&style=for-the-badge" alt="hiteshmewara13" /></a> </p>
 
-- 🔭 I’m currently working on **building creative website**
+- 🔭 I’m currently working on **building creative websites**
 
 - 🌱 I’m currently learning **Web development**
 
@@ -16,9 +16,9 @@
 
 - 🤝 I’m looking for help with **Android Development**
 
-- 📝 I regularly write articles on [https://poemsbyhitesh.blogspot.com/](https://poemsbyhitesh.blogspot.com/)
+- 📝 I sometimes write articles on [https://poemsbyhitesh.blogspot.com/](https://poemsbyhitesh.blogspot.com/)
 
-- 💬 Ask me about **C++, html and css**
+- 💬 Ask me about **C++, React and JavaScript**
 
 - 📫 How to reach me **mewadahitesh00@gmail.com**
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
 
 <a href="https://codepen.io/hiteshmewada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hiteshmewada" height="30" width="40" /></a>
 
