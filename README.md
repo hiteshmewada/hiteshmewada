@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/hiteshmewara13" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshmewara13?logo=twitter&style=for-the-badge" alt="hiteshmewara13" /></a> </p>
 
-- 🔭 I’m currently working on **building creative websites**
+- 🔭 I’m currently working at Zeus Learning on **building EdTech Projects**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on **Web dev projects**
 
-- 🤝 I’m looking for help with **Android Development**
+- 🤝 I’m looking for help with **Learning AI**
 
 - 📝 I sometimes write articles on [https://poemsbyhitesh.blogspot.com/](https://poemsbyhitesh.blogspot.com/)
 
-- 💬 Ask me about **C++, React and JavaScript**
+- 💬 Ask me about **C++, Java and JavaScript**
 
 - 📫 How to reach me **mewadahitesh00@gmail.com**
 
