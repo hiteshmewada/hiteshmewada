@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hiteshmewara13" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshmewara13?logo=twitter&style=for-the-badge" alt="hiteshmewara13" /></a> </p>
 
-- 🔭 I’m currently working at Zeus Learning on **building EdTech Projects**
+- 🔭 I’m currently working at Wizni on **Web Development Side**
 
 - 🌱 I’m currently learning **System Design**
 
